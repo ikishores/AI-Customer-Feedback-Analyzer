@@ -56,8 +56,17 @@ streamlit run app.py
 
 4️⃣ Open your browser at http://localhost:8501
 
+
+
+
 📊 Example Output
 
 🟢 Positive Feedback: “Great product! Super fast delivery.”
 🔴 Negative Feedback: “Very poor customer support.”
 🟡 Neutral Feedback: “Received as expected.”
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-10-30 163852" src="https://github.com/user-attachments/assets/f5d60991-a3a2-4a34-9623-33f47cbdece3" />
+
+
+
