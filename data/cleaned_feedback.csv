@@ -1,0 +1,1501 @@
+id,date,feedback_text,sentiment
+1,2025-07-20,"Terrible service, waste of money.",negative
+2,2025-09-24,Excellent service and quick response.,positive
+3,2025-09-08,Excellent service and quick response.,positive
+4,2025-10-09,The product is amazing! It works perfectly.,positive
+5,2025-08-17,"Neutral review, it’s acceptable.",neutral
+6,2025-08-05,Very bad experience. Not satisfied at all.,negative
+7,2025-08-29,Average experience overall.,neutral
+8,2025-08-03,Very bad experience. Not satisfied at all.,negative
+9,2025-08-07,"Very happy with the purchase, thank you!",positive
+10,2025-10-22,"Neutral review, it’s acceptable.",neutral
+11,2025-10-04,Not happy with the quality.,negative
+12,2025-05-03,"Very happy with the purchase, thank you!",positive
+13,2025-07-18,Very bad experience. Not satisfied at all.,negative
+14,2025-09-13,Very bad experience. Not satisfied at all.,negative
+15,2025-07-18,"It works fine, nothing special.",neutral
+16,2025-10-29,Average experience overall.,neutral
+17,2025-07-14,"Neutral review, it’s acceptable.",neutral
+18,2025-05-25,Loved it! Totally worth the money.,positive
+19,2025-05-16,The product is amazing! It works perfectly.,positive
+20,2025-10-30,"It works fine, nothing special.",neutral
+21,2025-10-07,The product is amazing! It works perfectly.,positive
+22,2025-08-05,Not happy with the quality.,negative
+23,2025-05-11,Loved it! Totally worth the money.,positive
+24,2025-08-01,"The product is okay, not bad.",neutral
+25,2025-07-31,"Very happy with the purchase, thank you!",positive
+26,2025-07-16,Average experience overall.,neutral
+27,2025-06-20,"Great experience, will recommend to others.",positive
+28,2025-05-30,"Very happy with the purchase, thank you!",positive
+29,2025-08-23,"The product is okay, not bad.",neutral
+30,2025-05-25,Very bad experience. Not satisfied at all.,negative
+31,2025-08-28,Loved it! Totally worth the money.,positive
+32,2025-10-13,Loved it! Totally worth the money.,positive
+33,2025-06-11,Average experience overall.,neutral
+34,2025-07-21,"It works fine, nothing special.",neutral
+35,2025-05-30,Average experience overall.,neutral
+36,2025-09-12,Excellent service and quick response.,positive
+37,2025-07-06,"Very happy with the purchase, thank you!",positive
+38,2025-06-08,The product is amazing! It works perfectly.,positive
+39,2025-05-11,Average experience overall.,neutral
+40,2025-06-09,The product is amazing! It works perfectly.,positive
+41,2025-08-08,The product is amazing! It works perfectly.,positive
+42,2025-05-22,Average experience overall.,neutral
+43,2025-07-21,Excellent service and quick response.,positive
+44,2025-07-23,"Great experience, will recommend to others.",positive
+45,2025-06-16,The product is amazing! It works perfectly.,positive
+46,2025-05-18,"Very happy with the purchase, thank you!",positive
+47,2025-10-23,"Neutral review, it’s acceptable.",neutral
+48,2025-08-10,"Terrible service, waste of money.",negative
+49,2025-06-01,Product arrived damaged and late.,negative
+50,2025-08-22,"Terrible service, waste of money.",negative
+51,2025-05-11,Product arrived damaged and late.,negative
+52,2025-10-15,Not happy with the quality.,negative
+53,2025-09-03,"The product is okay, not bad.",neutral
+54,2025-10-22,"Neutral review, it’s acceptable.",neutral
+55,2025-09-03,Customer support was unhelpful.,negative
+56,2025-05-26,Loved it! Totally worth the money.,positive
+57,2025-07-05,The product is amazing! It works perfectly.,positive
+58,2025-09-22,No major issues but can be better.,neutral
+59,2025-05-03,The product is amazing! It works perfectly.,positive
+60,2025-08-21,Customer support was unhelpful.,negative
+61,2025-08-19,Loved it! Totally worth the money.,positive
+62,2025-10-04,No major issues but can be better.,neutral
+63,2025-06-07,"Terrible service, waste of money.",negative
+64,2025-08-26,"Neutral review, it’s acceptable.",neutral
+65,2025-09-29,Excellent service and quick response.,positive
+66,2025-10-29,"It works fine, nothing special.",neutral
+67,2025-09-23,Product arrived damaged and late.,negative
+68,2025-05-21,Very bad experience. Not satisfied at all.,negative
+69,2025-06-27,Customer support was unhelpful.,negative
+70,2025-09-18,"Neutral review, it’s acceptable.",neutral
+71,2025-05-26,Excellent service and quick response.,positive
+72,2025-07-12,"Neutral review, it’s acceptable.",neutral
+73,2025-09-22,Loved it! Totally worth the money.,positive
+74,2025-10-03,"Very happy with the purchase, thank you!",positive
+75,2025-05-16,"Very happy with the purchase, thank you!",positive
+76,2025-06-17,Product arrived damaged and late.,negative
+77,2025-09-11,No major issues but can be better.,neutral
+78,2025-05-29,Average experience overall.,neutral
+79,2025-10-20,Not happy with the quality.,negative
+80,2025-07-25,"Terrible service, waste of money.",negative
+81,2025-05-26,No major issues but can be better.,neutral
+82,2025-07-24,Loved it! Totally worth the money.,positive
+83,2025-05-06,Very bad experience. Not satisfied at all.,negative
+84,2025-05-21,"Terrible service, waste of money.",negative
+85,2025-05-06,Customer support was unhelpful.,negative
+86,2025-05-09,Customer support was unhelpful.,negative
+87,2025-09-22,The product is amazing! It works perfectly.,positive
+88,2025-09-25,"Very happy with the purchase, thank you!",positive
+89,2025-06-21,"Neutral review, it’s acceptable.",neutral
+90,2025-07-20,Not happy with the quality.,negative
+91,2025-06-12,"It works fine, nothing special.",neutral
+92,2025-05-14,Very bad experience. Not satisfied at all.,negative
+93,2025-05-11,"Great experience, will recommend to others.",positive
+94,2025-05-12,"Great experience, will recommend to others.",positive
+95,2025-06-01,No major issues but can be better.,neutral
+96,2025-10-08,"It works fine, nothing special.",neutral
+97,2025-10-28,Excellent service and quick response.,positive
+98,2025-05-30,Customer support was unhelpful.,negative
+99,2025-10-17,Customer support was unhelpful.,negative
+100,2025-10-05,Not happy with the quality.,negative
+101,2025-06-03,"Great experience, will recommend to others.",positive
+102,2025-05-18,Excellent service and quick response.,positive
+103,2025-07-04,"Neutral review, it’s acceptable.",neutral
+104,2025-05-30,Not happy with the quality.,negative
+105,2025-05-04,Not happy with the quality.,negative
+106,2025-08-13,Customer support was unhelpful.,negative
+107,2025-10-10,"Very happy with the purchase, thank you!",positive
+108,2025-07-10,"Great experience, will recommend to others.",positive
+109,2025-10-28,Loved it! Totally worth the money.,positive
+110,2025-05-18,"Terrible service, waste of money.",negative
+111,2025-09-14,"Great experience, will recommend to others.",positive
+112,2025-07-09,"Great experience, will recommend to others.",positive
+113,2025-10-21,Excellent service and quick response.,positive
+114,2025-09-10,The product is amazing! It works perfectly.,positive
+115,2025-07-28,"Neutral review, it’s acceptable.",neutral
+116,2025-09-16,Excellent service and quick response.,positive
+117,2025-08-23,No major issues but can be better.,neutral
+118,2025-08-26,"Great experience, will recommend to others.",positive
+119,2025-08-12,"Very happy with the purchase, thank you!",positive
+120,2025-09-23,The product is amazing! It works perfectly.,positive
+121,2025-08-08,Very bad experience. Not satisfied at all.,negative
+122,2025-06-11,Excellent service and quick response.,positive
+123,2025-06-30,"Great experience, will recommend to others.",positive
+124,2025-09-29,Product arrived damaged and late.,negative
+125,2025-08-25,"Neutral review, it’s acceptable.",neutral
+126,2025-09-06,No major issues but can be better.,neutral
+127,2025-08-19,Customer support was unhelpful.,negative
+128,2025-10-08,"The product is okay, not bad.",neutral
+129,2025-09-08,Product arrived damaged and late.,negative
+130,2025-07-27,No major issues but can be better.,neutral
+131,2025-10-16,"Very happy with the purchase, thank you!",positive
+132,2025-06-19,"Great experience, will recommend to others.",positive
+133,2025-05-27,Product arrived damaged and late.,negative
+134,2025-06-19,"Terrible service, waste of money.",negative
+135,2025-09-25,Not happy with the quality.,negative
+136,2025-07-31,"It works fine, nothing special.",neutral
+137,2025-09-26,Loved it! Totally worth the money.,positive
+138,2025-09-02,Average experience overall.,neutral
+139,2025-10-25,"Great experience, will recommend to others.",positive
+140,2025-06-06,Not happy with the quality.,negative
+141,2025-09-13,Loved it! Totally worth the money.,positive
+142,2025-08-04,Average experience overall.,neutral
+143,2025-08-22,The product is amazing! It works perfectly.,positive
+144,2025-07-05,Product arrived damaged and late.,negative
+145,2025-05-30,Loved it! Totally worth the money.,positive
+146,2025-09-27,"Very happy with the purchase, thank you!",positive
+147,2025-09-15,"Neutral review, it’s acceptable.",neutral
+148,2025-08-30,"Great experience, will recommend to others.",positive
+149,2025-08-14,Loved it! Totally worth the money.,positive
+150,2025-08-13,Very bad experience. Not satisfied at all.,negative
+151,2025-06-22,Average experience overall.,neutral
+152,2025-10-10,Average experience overall.,neutral
+153,2025-06-14,Product arrived damaged and late.,negative
+154,2025-07-23,Average experience overall.,neutral
+155,2025-06-18,Excellent service and quick response.,positive
+156,2025-10-01,The product is amazing! It works perfectly.,positive
+157,2025-05-24,Product arrived damaged and late.,negative
+158,2025-09-28,"Very happy with the purchase, thank you!",positive
+159,2025-08-30,Not happy with the quality.,negative
+160,2025-06-08,"Terrible service, waste of money.",negative
+161,2025-09-04,Average experience overall.,neutral
+162,2025-08-15,Very bad experience. Not satisfied at all.,negative
+163,2025-09-12,"Great experience, will recommend to others.",positive
+164,2025-07-30,"It works fine, nothing special.",neutral
+165,2025-06-10,Average experience overall.,neutral
+166,2025-08-19,Excellent service and quick response.,positive
+167,2025-05-10,Very bad experience. Not satisfied at all.,negative
+168,2025-08-26,The product is amazing! It works perfectly.,positive
+169,2025-10-28,"Terrible service, waste of money.",negative
+170,2025-05-20,Very bad experience. Not satisfied at all.,negative
+171,2025-05-18,Very bad experience. Not satisfied at all.,negative
+172,2025-07-01,"The product is okay, not bad.",neutral
+173,2025-08-17,"Very happy with the purchase, thank you!",positive
+174,2025-06-03,"Great experience, will recommend to others.",positive
+175,2025-09-23,"Very happy with the purchase, thank you!",positive
+176,2025-09-14,Product arrived damaged and late.,negative
+177,2025-10-27,Loved it! Totally worth the money.,positive
+178,2025-09-24,Product arrived damaged and late.,negative
+179,2025-10-04,Product arrived damaged and late.,negative
+180,2025-08-22,The product is amazing! It works perfectly.,positive
+181,2025-08-06,No major issues but can be better.,neutral
+182,2025-09-15,Product arrived damaged and late.,negative
+183,2025-05-12,"Terrible service, waste of money.",negative
+184,2025-05-18,"Very happy with the purchase, thank you!",positive
+185,2025-06-28,"It works fine, nothing special.",neutral
+186,2025-06-16,"It works fine, nothing special.",neutral
+187,2025-09-16,"Very happy with the purchase, thank you!",positive
+188,2025-10-23,Average experience overall.,neutral
+189,2025-08-04,"Great experience, will recommend to others.",positive
+190,2025-07-09,Excellent service and quick response.,positive
+191,2025-08-10,"It works fine, nothing special.",neutral
+192,2025-07-11,"Great experience, will recommend to others.",positive
+193,2025-09-10,Very bad experience. Not satisfied at all.,negative
+194,2025-10-23,Average experience overall.,neutral
+195,2025-05-13,"Neutral review, it’s acceptable.",neutral
+196,2025-09-16,Customer support was unhelpful.,negative
+197,2025-05-20,No major issues but can be better.,neutral
+198,2025-10-14,"The product is okay, not bad.",neutral
+199,2025-06-15,Customer support was unhelpful.,negative
+200,2025-06-27,The product is amazing! It works perfectly.,positive
+201,2025-05-15,The product is amazing! It works perfectly.,positive
+202,2025-05-19,No major issues but can be better.,neutral
+203,2025-07-04,Not happy with the quality.,negative
+204,2025-07-11,"Terrible service, waste of money.",negative
+205,2025-06-05,"Great experience, will recommend to others.",positive
+206,2025-06-21,Average experience overall.,neutral
+207,2025-07-31,"The product is okay, not bad.",neutral
+208,2025-08-08,The product is amazing! It works perfectly.,positive
+209,2025-05-17,"Neutral review, it’s acceptable.",neutral
+210,2025-07-16,The product is amazing! It works perfectly.,positive
+211,2025-10-11,The product is amazing! It works perfectly.,positive
+212,2025-08-12,"Neutral review, it’s acceptable.",neutral
+213,2025-05-16,Excellent service and quick response.,positive
+214,2025-05-30,Customer support was unhelpful.,negative
+215,2025-05-30,"Very happy with the purchase, thank you!",positive
+216,2025-09-26,Very bad experience. Not satisfied at all.,negative
+217,2025-06-10,"Neutral review, it’s acceptable.",neutral
+218,2025-06-11,"The product is okay, not bad.",neutral
+219,2025-07-17,"It works fine, nothing special.",neutral
+220,2025-10-20,Average experience overall.,neutral
+221,2025-08-29,Average experience overall.,neutral
+222,2025-05-20,Loved it! Totally worth the money.,positive
+223,2025-06-12,Product arrived damaged and late.,negative
+224,2025-07-04,Average experience overall.,neutral
+225,2025-07-30,"Terrible service, waste of money.",negative
+226,2025-05-30,Customer support was unhelpful.,negative
+227,2025-08-22,Excellent service and quick response.,positive
+228,2025-08-03,Loved it! Totally worth the money.,positive
+229,2025-05-26,Average experience overall.,neutral
+230,2025-07-04,"The product is okay, not bad.",neutral
+231,2025-09-29,No major issues but can be better.,neutral
+232,2025-07-28,The product is amazing! It works perfectly.,positive
+233,2025-05-17,Customer support was unhelpful.,negative
+234,2025-06-30,"Great experience, will recommend to others.",positive
+235,2025-09-18,"It works fine, nothing special.",neutral
+236,2025-09-17,"Neutral review, it’s acceptable.",neutral
+237,2025-10-25,Very bad experience. Not satisfied at all.,negative
+238,2025-06-05,"The product is okay, not bad.",neutral
+239,2025-10-10,The product is amazing! It works perfectly.,positive
+240,2025-06-04,Product arrived damaged and late.,negative
+241,2025-08-18,Very bad experience. Not satisfied at all.,negative
+242,2025-08-18,Average experience overall.,neutral
+243,2025-10-25,Excellent service and quick response.,positive
+244,2025-07-27,"It works fine, nothing special.",neutral
+245,2025-05-26,"The product is okay, not bad.",neutral
+246,2025-10-09,The product is amazing! It works perfectly.,positive
+247,2025-08-11,Excellent service and quick response.,positive
+248,2025-08-13,"The product is okay, not bad.",neutral
+249,2025-07-26,No major issues but can be better.,neutral
+250,2025-07-05,"The product is okay, not bad.",neutral
+251,2025-08-09,The product is amazing! It works perfectly.,positive
+252,2025-08-11,"It works fine, nothing special.",neutral
+253,2025-05-20,"Great experience, will recommend to others.",positive
+254,2025-07-25,"The product is okay, not bad.",neutral
+255,2025-06-03,No major issues but can be better.,neutral
+256,2025-06-14,Average experience overall.,neutral
+257,2025-05-11,Not happy with the quality.,negative
+258,2025-05-07,Very bad experience. Not satisfied at all.,negative
+259,2025-08-24,"Great experience, will recommend to others.",positive
+260,2025-08-14,Customer support was unhelpful.,negative
+261,2025-06-24,No major issues but can be better.,neutral
+262,2025-07-21,Average experience overall.,neutral
+263,2025-07-30,"It works fine, nothing special.",neutral
+264,2025-09-12,"Very happy with the purchase, thank you!",positive
+265,2025-06-20,Product arrived damaged and late.,negative
+266,2025-08-31,Very bad experience. Not satisfied at all.,negative
+267,2025-09-12,No major issues but can be better.,neutral
+268,2025-05-19,Very bad experience. Not satisfied at all.,negative
+269,2025-05-15,No major issues but can be better.,neutral
+270,2025-09-18,"Terrible service, waste of money.",negative
+271,2025-09-19,Product arrived damaged and late.,negative
+272,2025-10-16,The product is amazing! It works perfectly.,positive
+273,2025-05-24,The product is amazing! It works perfectly.,positive
+274,2025-06-20,"Great experience, will recommend to others.",positive
+275,2025-07-17,Product arrived damaged and late.,negative
+276,2025-10-14,Loved it! Totally worth the money.,positive
+277,2025-08-28,"Great experience, will recommend to others.",positive
+278,2025-08-23,"It works fine, nothing special.",neutral
+279,2025-09-04,Excellent service and quick response.,positive
+280,2025-09-26,No major issues but can be better.,neutral
+281,2025-09-20,"Great experience, will recommend to others.",positive
+282,2025-08-29,Not happy with the quality.,negative
+283,2025-10-09,Loved it! Totally worth the money.,positive
+284,2025-06-26,Loved it! Totally worth the money.,positive
+285,2025-06-09,Not happy with the quality.,negative
+286,2025-08-30,"Great experience, will recommend to others.",positive
+287,2025-09-27,Product arrived damaged and late.,negative
+288,2025-06-20,Very bad experience. Not satisfied at all.,negative
+289,2025-10-18,"Terrible service, waste of money.",negative
+290,2025-06-08,"The product is okay, not bad.",neutral
+291,2025-10-08,The product is amazing! It works perfectly.,positive
+292,2025-06-16,"Great experience, will recommend to others.",positive
+293,2025-09-28,No major issues but can be better.,neutral
+294,2025-08-26,No major issues but can be better.,neutral
+295,2025-07-15,Average experience overall.,neutral
+296,2025-09-02,Loved it! Totally worth the money.,positive
+297,2025-08-25,"The product is okay, not bad.",neutral
+298,2025-08-19,Average experience overall.,neutral
+299,2025-10-10,No major issues but can be better.,neutral
+300,2025-05-16,"Terrible service, waste of money.",negative
+301,2025-07-04,"Terrible service, waste of money.",negative
+302,2025-06-25,"It works fine, nothing special.",neutral
+303,2025-06-01,Product arrived damaged and late.,negative
+304,2025-09-14,Not happy with the quality.,negative
+305,2025-08-08,Excellent service and quick response.,positive
+306,2025-09-22,"It works fine, nothing special.",neutral
+307,2025-07-07,"It works fine, nothing special.",neutral
+308,2025-05-29,"Very happy with the purchase, thank you!",positive
+309,2025-06-22,"Great experience, will recommend to others.",positive
+310,2025-06-18,Customer support was unhelpful.,negative
+311,2025-05-11,Product arrived damaged and late.,negative
+312,2025-06-19,Not happy with the quality.,negative
+313,2025-09-21,"Neutral review, it’s acceptable.",neutral
+314,2025-08-26,"Terrible service, waste of money.",negative
+315,2025-10-19,"The product is okay, not bad.",neutral
+316,2025-08-20,"Very happy with the purchase, thank you!",positive
+317,2025-06-08,Product arrived damaged and late.,negative
+318,2025-05-13,"The product is okay, not bad.",neutral
+319,2025-09-01,Not happy with the quality.,negative
+320,2025-09-29,"Great experience, will recommend to others.",positive
+321,2025-08-05,Not happy with the quality.,negative
+322,2025-06-27,Product arrived damaged and late.,negative
+323,2025-10-12,"Neutral review, it’s acceptable.",neutral
+324,2025-05-19,"The product is okay, not bad.",neutral
+325,2025-09-01,Loved it! Totally worth the money.,positive
+326,2025-09-13,Loved it! Totally worth the money.,positive
+327,2025-07-09,"Great experience, will recommend to others.",positive
+328,2025-05-15,No major issues but can be better.,neutral
+329,2025-06-30,Customer support was unhelpful.,negative
+330,2025-05-28,"The product is okay, not bad.",neutral
+331,2025-09-16,Customer support was unhelpful.,negative
+332,2025-06-13,"Great experience, will recommend to others.",positive
+333,2025-05-28,"Terrible service, waste of money.",negative
+334,2025-08-23,"It works fine, nothing special.",neutral
+335,2025-05-22,"It works fine, nothing special.",neutral
+336,2025-07-19,No major issues but can be better.,neutral
+337,2025-05-17,"It works fine, nothing special.",neutral
+338,2025-07-05,Loved it! Totally worth the money.,positive
+339,2025-08-25,"The product is okay, not bad.",neutral
+340,2025-05-07,Very bad experience. Not satisfied at all.,negative
+341,2025-05-23,Not happy with the quality.,negative
+342,2025-05-26,Loved it! Totally worth the money.,positive
+343,2025-08-09,Customer support was unhelpful.,negative
+344,2025-10-13,"It works fine, nothing special.",neutral
+345,2025-06-27,Loved it! Totally worth the money.,positive
+346,2025-10-28,The product is amazing! It works perfectly.,positive
+347,2025-05-30,Not happy with the quality.,negative
+348,2025-06-26,"The product is okay, not bad.",neutral
+349,2025-06-14,Not happy with the quality.,negative
+350,2025-08-31,The product is amazing! It works perfectly.,positive
+351,2025-06-04,Not happy with the quality.,negative
+352,2025-10-10,Very bad experience. Not satisfied at all.,negative
+353,2025-06-20,"Great experience, will recommend to others.",positive
+354,2025-06-11,"Great experience, will recommend to others.",positive
+355,2025-06-03,Very bad experience. Not satisfied at all.,negative
+356,2025-07-29,Customer support was unhelpful.,negative
+357,2025-07-06,"The product is okay, not bad.",neutral
+358,2025-10-14,Loved it! Totally worth the money.,positive
+359,2025-05-14,"Terrible service, waste of money.",negative
+360,2025-05-12,"Terrible service, waste of money.",negative
+361,2025-08-11,"The product is okay, not bad.",neutral
+362,2025-06-09,The product is amazing! It works perfectly.,positive
+363,2025-05-18,"Neutral review, it’s acceptable.",neutral
+364,2025-08-29,"It works fine, nothing special.",neutral
+365,2025-07-16,Loved it! Totally worth the money.,positive
+366,2025-10-30,"Very happy with the purchase, thank you!",positive
+367,2025-10-03,"The product is okay, not bad.",neutral
+368,2025-10-08,"The product is okay, not bad.",neutral
+369,2025-05-04,Not happy with the quality.,negative
+370,2025-07-10,Not happy with the quality.,negative
+371,2025-09-01,Excellent service and quick response.,positive
+372,2025-10-16,Not happy with the quality.,negative
+373,2025-09-14,Not happy with the quality.,negative
+374,2025-10-18,Excellent service and quick response.,positive
+375,2025-08-04,Product arrived damaged and late.,negative
+376,2025-07-31,"It works fine, nothing special.",neutral
+377,2025-08-29,Very bad experience. Not satisfied at all.,negative
+378,2025-06-15,Average experience overall.,neutral
+379,2025-06-26,No major issues but can be better.,neutral
+380,2025-07-12,Very bad experience. Not satisfied at all.,negative
+381,2025-09-23,Very bad experience. Not satisfied at all.,negative
+382,2025-08-10,Loved it! Totally worth the money.,positive
+383,2025-09-17,Excellent service and quick response.,positive
+384,2025-09-04,"Great experience, will recommend to others.",positive
+385,2025-07-28,Average experience overall.,neutral
+386,2025-05-18,Very bad experience. Not satisfied at all.,negative
+387,2025-09-07,Not happy with the quality.,negative
+388,2025-06-13,Excellent service and quick response.,positive
+389,2025-07-09,Average experience overall.,neutral
+390,2025-10-29,Loved it! Totally worth the money.,positive
+391,2025-10-13,"The product is okay, not bad.",neutral
+392,2025-10-03,"Great experience, will recommend to others.",positive
+393,2025-07-31,Product arrived damaged and late.,negative
+394,2025-06-05,No major issues but can be better.,neutral
+395,2025-06-08,No major issues but can be better.,neutral
+396,2025-09-16,Not happy with the quality.,negative
+397,2025-08-06,Very bad experience. Not satisfied at all.,negative
+398,2025-07-27,Excellent service and quick response.,positive
+399,2025-10-27,"Very happy with the purchase, thank you!",positive
+400,2025-10-28,The product is amazing! It works perfectly.,positive
+401,2025-05-11,Customer support was unhelpful.,negative
+402,2025-07-26,The product is amazing! It works perfectly.,positive
+403,2025-05-09,"Terrible service, waste of money.",negative
+404,2025-08-25,Not happy with the quality.,negative
+405,2025-09-06,Product arrived damaged and late.,negative
+406,2025-06-22,Loved it! Totally worth the money.,positive
+407,2025-10-24,"Neutral review, it’s acceptable.",neutral
+408,2025-10-13,Not happy with the quality.,negative
+409,2025-06-07,Product arrived damaged and late.,negative
+410,2025-09-05,Excellent service and quick response.,positive
+411,2025-09-14,Product arrived damaged and late.,negative
+412,2025-06-25,Excellent service and quick response.,positive
+413,2025-06-27,Not happy with the quality.,negative
+414,2025-09-15,No major issues but can be better.,neutral
+415,2025-06-04,"The product is okay, not bad.",neutral
+416,2025-10-23,Not happy with the quality.,negative
+417,2025-08-02,"It works fine, nothing special.",neutral
+418,2025-07-08,Excellent service and quick response.,positive
+419,2025-05-08,Customer support was unhelpful.,negative
+420,2025-07-22,"The product is okay, not bad.",neutral
+421,2025-09-30,Product arrived damaged and late.,negative
+422,2025-05-09,Product arrived damaged and late.,negative
+423,2025-08-17,Excellent service and quick response.,positive
+424,2025-07-20,"The product is okay, not bad.",neutral
+425,2025-10-29,"The product is okay, not bad.",neutral
+426,2025-09-11,Excellent service and quick response.,positive
+427,2025-05-04,Customer support was unhelpful.,negative
+428,2025-06-29,"Terrible service, waste of money.",negative
+429,2025-07-29,"Terrible service, waste of money.",negative
+430,2025-05-12,Customer support was unhelpful.,negative
+431,2025-05-27,Not happy with the quality.,negative
+432,2025-08-25,Average experience overall.,neutral
+433,2025-05-07,Loved it! Totally worth the money.,positive
+434,2025-05-20,"It works fine, nothing special.",neutral
+435,2025-06-07,Loved it! Totally worth the money.,positive
+436,2025-10-11,Not happy with the quality.,negative
+437,2025-09-22,"Very happy with the purchase, thank you!",positive
+438,2025-07-04,"Neutral review, it’s acceptable.",neutral
+439,2025-08-25,Average experience overall.,neutral
+440,2025-06-25,Very bad experience. Not satisfied at all.,negative
+441,2025-08-30,Product arrived damaged and late.,negative
+442,2025-09-19,"Neutral review, it’s acceptable.",neutral
+443,2025-08-26,Average experience overall.,neutral
+444,2025-09-07,"Neutral review, it’s acceptable.",neutral
+445,2025-10-16,Not happy with the quality.,negative
+446,2025-06-24,"Neutral review, it’s acceptable.",neutral
+447,2025-07-09,Excellent service and quick response.,positive
+448,2025-09-02,"The product is okay, not bad.",neutral
+449,2025-07-22,"Terrible service, waste of money.",negative
+450,2025-09-15,No major issues but can be better.,neutral
+451,2025-06-04,Customer support was unhelpful.,negative
+452,2025-08-20,"Terrible service, waste of money.",negative
+453,2025-09-05,Product arrived damaged and late.,negative
+454,2025-05-31,Customer support was unhelpful.,negative
+455,2025-09-23,Customer support was unhelpful.,negative
+456,2025-07-31,Average experience overall.,neutral
+457,2025-05-15,"Terrible service, waste of money.",negative
+458,2025-07-17,Very bad experience. Not satisfied at all.,negative
+459,2025-07-19,The product is amazing! It works perfectly.,positive
+460,2025-10-15,Very bad experience. Not satisfied at all.,negative
+461,2025-06-22,Average experience overall.,neutral
+462,2025-08-13,"The product is okay, not bad.",neutral
+463,2025-08-21,"The product is okay, not bad.",neutral
+464,2025-10-21,The product is amazing! It works perfectly.,positive
+465,2025-10-16,"Very happy with the purchase, thank you!",positive
+466,2025-07-06,Not happy with the quality.,negative
+467,2025-09-06,"The product is okay, not bad.",neutral
+468,2025-09-15,Excellent service and quick response.,positive
+469,2025-10-05,Not happy with the quality.,negative
+470,2025-07-05,"The product is okay, not bad.",neutral
+471,2025-07-06,Not happy with the quality.,negative
+472,2025-05-06,Very bad experience. Not satisfied at all.,negative
+473,2025-07-12,Customer support was unhelpful.,negative
+474,2025-05-14,"Neutral review, it’s acceptable.",neutral
+475,2025-05-05,Excellent service and quick response.,positive
+476,2025-07-13,"Terrible service, waste of money.",negative
+477,2025-07-17,"The product is okay, not bad.",neutral
+478,2025-07-05,Not happy with the quality.,negative
+479,2025-09-14,The product is amazing! It works perfectly.,positive
+480,2025-09-23,Very bad experience. Not satisfied at all.,negative
+481,2025-10-14,Customer support was unhelpful.,negative
+482,2025-07-30,The product is amazing! It works perfectly.,positive
+483,2025-09-15,Product arrived damaged and late.,negative
+484,2025-09-16,"The product is okay, not bad.",neutral
+485,2025-07-22,Not happy with the quality.,negative
+486,2025-08-01,Very bad experience. Not satisfied at all.,negative
+487,2025-10-01,"It works fine, nothing special.",neutral
+488,2025-10-23,"Great experience, will recommend to others.",positive
+489,2025-09-26,"Neutral review, it’s acceptable.",neutral
+490,2025-05-12,Product arrived damaged and late.,negative
+491,2025-05-06,The product is amazing! It works perfectly.,positive
+492,2025-05-17,Not happy with the quality.,negative
+493,2025-10-15,Very bad experience. Not satisfied at all.,negative
+494,2025-09-09,Customer support was unhelpful.,negative
+495,2025-08-19,Average experience overall.,neutral
+496,2025-06-13,"The product is okay, not bad.",neutral
+497,2025-05-25,Excellent service and quick response.,positive
+498,2025-08-07,Average experience overall.,neutral
+499,2025-10-04,"Neutral review, it’s acceptable.",neutral
+500,2025-09-05,"Very happy with the purchase, thank you!",positive
+501,2025-09-03,"The product is okay, not bad.",neutral
+502,2025-06-14,Excellent service and quick response.,positive
+503,2025-08-06,"Terrible service, waste of money.",negative
+504,2025-09-04,"Great experience, will recommend to others.",positive
+505,2025-08-18,No major issues but can be better.,neutral
+506,2025-09-30,"It works fine, nothing special.",neutral
+507,2025-07-20,Product arrived damaged and late.,negative
+508,2025-08-06,Not happy with the quality.,negative
+509,2025-06-14,Excellent service and quick response.,positive
+510,2025-06-14,"Neutral review, it’s acceptable.",neutral
+511,2025-05-07,Product arrived damaged and late.,negative
+512,2025-07-23,"Great experience, will recommend to others.",positive
+513,2025-05-14,Loved it! Totally worth the money.,positive
+514,2025-08-06,"The product is okay, not bad.",neutral
+515,2025-05-12,Average experience overall.,neutral
+516,2025-06-28,"The product is okay, not bad.",neutral
+517,2025-10-05,Excellent service and quick response.,positive
+518,2025-10-07,The product is amazing! It works perfectly.,positive
+519,2025-07-11,"It works fine, nothing special.",neutral
+520,2025-07-28,"The product is okay, not bad.",neutral
+521,2025-05-26,"It works fine, nothing special.",neutral
+522,2025-09-07,"Terrible service, waste of money.",negative
+523,2025-08-11,The product is amazing! It works perfectly.,positive
+524,2025-06-25,"Terrible service, waste of money.",negative
+525,2025-09-04,Customer support was unhelpful.,negative
+526,2025-06-25,No major issues but can be better.,neutral
+527,2025-09-23,Loved it! Totally worth the money.,positive
+528,2025-06-25,No major issues but can be better.,neutral
+529,2025-10-13,The product is amazing! It works perfectly.,positive
+530,2025-05-27,"It works fine, nothing special.",neutral
+531,2025-06-10,Not happy with the quality.,negative
+532,2025-10-18,Very bad experience. Not satisfied at all.,negative
+533,2025-10-27,Excellent service and quick response.,positive
+534,2025-09-14,Average experience overall.,neutral
+535,2025-07-26,The product is amazing! It works perfectly.,positive
+536,2025-07-23,"Neutral review, it’s acceptable.",neutral
+537,2025-10-24,"It works fine, nothing special.",neutral
+538,2025-06-29,"The product is okay, not bad.",neutral
+539,2025-07-14,Loved it! Totally worth the money.,positive
+540,2025-10-07,The product is amazing! It works perfectly.,positive
+541,2025-07-07,Average experience overall.,neutral
+542,2025-09-08,Not happy with the quality.,negative
+543,2025-05-31,Product arrived damaged and late.,negative
+544,2025-06-16,Product arrived damaged and late.,negative
+545,2025-08-06,"Great experience, will recommend to others.",positive
+546,2025-05-20,"The product is okay, not bad.",neutral
+547,2025-06-28,"It works fine, nothing special.",neutral
+548,2025-10-02,Not happy with the quality.,negative
+549,2025-07-16,Excellent service and quick response.,positive
+550,2025-09-10,Excellent service and quick response.,positive
+551,2025-05-29,"Neutral review, it’s acceptable.",neutral
+552,2025-06-05,Customer support was unhelpful.,negative
+553,2025-10-27,Average experience overall.,neutral
+554,2025-10-25,The product is amazing! It works perfectly.,positive
+555,2025-06-11,Average experience overall.,neutral
+556,2025-06-22,Very bad experience. Not satisfied at all.,negative
+557,2025-05-07,"Great experience, will recommend to others.",positive
+558,2025-09-08,"The product is okay, not bad.",neutral
+559,2025-07-24,Average experience overall.,neutral
+560,2025-10-04,"It works fine, nothing special.",neutral
+561,2025-07-04,Very bad experience. Not satisfied at all.,negative
+562,2025-08-23,"It works fine, nothing special.",neutral
+563,2025-08-08,The product is amazing! It works perfectly.,positive
+564,2025-08-20,"Great experience, will recommend to others.",positive
+565,2025-07-13,"Great experience, will recommend to others.",positive
+566,2025-08-25,Average experience overall.,neutral
+567,2025-10-18,The product is amazing! It works perfectly.,positive
+568,2025-08-06,Excellent service and quick response.,positive
+569,2025-06-15,Product arrived damaged and late.,negative
+570,2025-10-13,"Neutral review, it’s acceptable.",neutral
+571,2025-06-13,The product is amazing! It works perfectly.,positive
+572,2025-05-17,"It works fine, nothing special.",neutral
+573,2025-08-12,No major issues but can be better.,neutral
+574,2025-06-01,"The product is okay, not bad.",neutral
+575,2025-08-21,"Great experience, will recommend to others.",positive
+576,2025-06-03,Excellent service and quick response.,positive
+577,2025-05-25,Loved it! Totally worth the money.,positive
+578,2025-10-15,"Very happy with the purchase, thank you!",positive
+579,2025-08-20,Loved it! Totally worth the money.,positive
+580,2025-09-28,"Very happy with the purchase, thank you!",positive
+581,2025-10-23,"It works fine, nothing special.",neutral
+582,2025-06-03,Customer support was unhelpful.,negative
+583,2025-05-26,Excellent service and quick response.,positive
+584,2025-10-25,Average experience overall.,neutral
+585,2025-09-17,The product is amazing! It works perfectly.,positive
+586,2025-05-30,Not happy with the quality.,negative
+587,2025-06-10,"The product is okay, not bad.",neutral
+588,2025-07-20,"It works fine, nothing special.",neutral
+589,2025-06-23,"Neutral review, it’s acceptable.",neutral
+590,2025-10-30,"Great experience, will recommend to others.",positive
+591,2025-07-27,Excellent service and quick response.,positive
+592,2025-10-27,Average experience overall.,neutral
+593,2025-05-23,Loved it! Totally worth the money.,positive
+594,2025-09-22,"Very happy with the purchase, thank you!",positive
+595,2025-05-21,Excellent service and quick response.,positive
+596,2025-09-08,Loved it! Totally worth the money.,positive
+597,2025-09-10,Not happy with the quality.,negative
+598,2025-08-17,The product is amazing! It works perfectly.,positive
+599,2025-06-13,Loved it! Totally worth the money.,positive
+600,2025-06-15,Excellent service and quick response.,positive
+601,2025-05-05,Average experience overall.,neutral
+602,2025-06-29,"Terrible service, waste of money.",negative
+603,2025-10-01,No major issues but can be better.,neutral
+604,2025-06-14,Loved it! Totally worth the money.,positive
+605,2025-08-05,"Very happy with the purchase, thank you!",positive
+606,2025-09-10,Average experience overall.,neutral
+607,2025-09-05,"It works fine, nothing special.",neutral
+608,2025-08-27,Average experience overall.,neutral
+609,2025-05-30,No major issues but can be better.,neutral
+610,2025-07-21,Excellent service and quick response.,positive
+611,2025-10-08,Excellent service and quick response.,positive
+612,2025-09-03,Very bad experience. Not satisfied at all.,negative
+613,2025-10-25,"Great experience, will recommend to others.",positive
+614,2025-06-13,Product arrived damaged and late.,negative
+615,2025-07-27,The product is amazing! It works perfectly.,positive
+616,2025-10-26,Very bad experience. Not satisfied at all.,negative
+617,2025-06-22,Customer support was unhelpful.,negative
+618,2025-07-16,"The product is okay, not bad.",neutral
+619,2025-08-27,"The product is okay, not bad.",neutral
+620,2025-06-27,Customer support was unhelpful.,negative
+621,2025-08-25,Loved it! Totally worth the money.,positive
+622,2025-08-10,"Very happy with the purchase, thank you!",positive
+623,2025-07-10,Very bad experience. Not satisfied at all.,negative
+624,2025-08-26,The product is amazing! It works perfectly.,positive
+625,2025-07-16,Loved it! Totally worth the money.,positive
+626,2025-05-14,No major issues but can be better.,neutral
+627,2025-05-03,Product arrived damaged and late.,negative
+628,2025-07-05,Average experience overall.,neutral
+629,2025-07-25,The product is amazing! It works perfectly.,positive
+630,2025-05-08,Product arrived damaged and late.,negative
+631,2025-10-12,Loved it! Totally worth the money.,positive
+632,2025-08-03,Loved it! Totally worth the money.,positive
+633,2025-07-08,No major issues but can be better.,neutral
+634,2025-06-02,Average experience overall.,neutral
+635,2025-06-04,"Terrible service, waste of money.",negative
+636,2025-10-19,No major issues but can be better.,neutral
+637,2025-07-20,"Great experience, will recommend to others.",positive
+638,2025-07-25,"Very happy with the purchase, thank you!",positive
+639,2025-10-20,Excellent service and quick response.,positive
+640,2025-08-01,"Neutral review, it’s acceptable.",neutral
+641,2025-10-28,Product arrived damaged and late.,negative
+642,2025-09-01,"Neutral review, it’s acceptable.",neutral
+643,2025-10-17,Excellent service and quick response.,positive
+644,2025-05-24,Product arrived damaged and late.,negative
+645,2025-09-21,Not happy with the quality.,negative
+646,2025-07-02,No major issues but can be better.,neutral
+647,2025-10-18,Not happy with the quality.,negative
+648,2025-06-20,"Very happy with the purchase, thank you!",positive
+649,2025-07-04,Very bad experience. Not satisfied at all.,negative
+650,2025-08-03,No major issues but can be better.,neutral
+651,2025-09-27,"Great experience, will recommend to others.",positive
+652,2025-07-09,Very bad experience. Not satisfied at all.,negative
+653,2025-06-28,Very bad experience. Not satisfied at all.,negative
+654,2025-05-15,The product is amazing! It works perfectly.,positive
+655,2025-08-28,Average experience overall.,neutral
+656,2025-10-26,"Neutral review, it’s acceptable.",neutral
+657,2025-08-28,No major issues but can be better.,neutral
+658,2025-06-29,Average experience overall.,neutral
+659,2025-08-14,Loved it! Totally worth the money.,positive
+660,2025-08-04,Excellent service and quick response.,positive
+661,2025-10-19,Loved it! Totally worth the money.,positive
+662,2025-05-26,The product is amazing! It works perfectly.,positive
+663,2025-06-25,The product is amazing! It works perfectly.,positive
+664,2025-05-29,"The product is okay, not bad.",neutral
+665,2025-05-30,Customer support was unhelpful.,negative
+666,2025-10-21,Not happy with the quality.,negative
+667,2025-08-27,"Neutral review, it’s acceptable.",neutral
+668,2025-08-17,The product is amazing! It works perfectly.,positive
+669,2025-06-25,Not happy with the quality.,negative
+670,2025-10-03,Average experience overall.,neutral
+671,2025-07-22,The product is amazing! It works perfectly.,positive
+672,2025-10-09,"It works fine, nothing special.",neutral
+673,2025-10-03,"Very happy with the purchase, thank you!",positive
+674,2025-05-14,Customer support was unhelpful.,negative
+675,2025-06-24,"Terrible service, waste of money.",negative
+676,2025-07-03,"The product is okay, not bad.",neutral
+677,2025-06-04,"It works fine, nothing special.",neutral
+678,2025-08-11,"The product is okay, not bad.",neutral
+679,2025-09-07,Product arrived damaged and late.,negative
+680,2025-08-31,Average experience overall.,neutral
+681,2025-05-21,Product arrived damaged and late.,negative
+682,2025-05-24,"Great experience, will recommend to others.",positive
+683,2025-10-01,"Very happy with the purchase, thank you!",positive
+684,2025-05-31,Not happy with the quality.,negative
+685,2025-05-09,"Terrible service, waste of money.",negative
+686,2025-05-18,Not happy with the quality.,negative
+687,2025-06-26,Customer support was unhelpful.,negative
+688,2025-06-06,Excellent service and quick response.,positive
+689,2025-06-06,Loved it! Totally worth the money.,positive
+690,2025-07-03,"Neutral review, it’s acceptable.",neutral
+691,2025-06-02,Excellent service and quick response.,positive
+692,2025-10-08,"Neutral review, it’s acceptable.",neutral
+693,2025-10-29,Average experience overall.,neutral
+694,2025-06-18,Average experience overall.,neutral
+695,2025-10-28,Average experience overall.,neutral
+696,2025-09-30,"Neutral review, it’s acceptable.",neutral
+697,2025-05-12,Product arrived damaged and late.,negative
+698,2025-06-01,No major issues but can be better.,neutral
+699,2025-06-02,Very bad experience. Not satisfied at all.,negative
+700,2025-10-01,"Neutral review, it’s acceptable.",neutral
+701,2025-07-21,Product arrived damaged and late.,negative
+702,2025-08-29,"Great experience, will recommend to others.",positive
+703,2025-09-30,Customer support was unhelpful.,negative
+704,2025-08-24,The product is amazing! It works perfectly.,positive
+705,2025-05-21,"Neutral review, it’s acceptable.",neutral
+706,2025-10-26,Product arrived damaged and late.,negative
+707,2025-07-04,Product arrived damaged and late.,negative
+708,2025-06-08,Loved it! Totally worth the money.,positive
+709,2025-09-10,Not happy with the quality.,negative
+710,2025-09-03,Customer support was unhelpful.,negative
+711,2025-08-04,Very bad experience. Not satisfied at all.,negative
+712,2025-07-22,Very bad experience. Not satisfied at all.,negative
+713,2025-07-27,"Very happy with the purchase, thank you!",positive
+714,2025-10-17,"Very happy with the purchase, thank you!",positive
+715,2025-05-28,Average experience overall.,neutral
+716,2025-07-01,The product is amazing! It works perfectly.,positive
+717,2025-09-04,"The product is okay, not bad.",neutral
+718,2025-07-23,"It works fine, nothing special.",neutral
+719,2025-08-10,Customer support was unhelpful.,negative
+720,2025-06-06,Excellent service and quick response.,positive
+721,2025-08-28,Not happy with the quality.,negative
+722,2025-06-01,"Terrible service, waste of money.",negative
+723,2025-09-24,Not happy with the quality.,negative
+724,2025-06-20,Excellent service and quick response.,positive
+725,2025-06-25,Loved it! Totally worth the money.,positive
+726,2025-07-15,Loved it! Totally worth the money.,positive
+727,2025-09-04,"Great experience, will recommend to others.",positive
+728,2025-07-10,The product is amazing! It works perfectly.,positive
+729,2025-07-20,"The product is okay, not bad.",neutral
+730,2025-09-23,Average experience overall.,neutral
+731,2025-05-23,"The product is okay, not bad.",neutral
+732,2025-05-25,Customer support was unhelpful.,negative
+733,2025-06-05,"Very happy with the purchase, thank you!",positive
+734,2025-06-21,"Neutral review, it’s acceptable.",neutral
+735,2025-09-19,"Neutral review, it’s acceptable.",neutral
+736,2025-07-25,"Very happy with the purchase, thank you!",positive
+737,2025-06-08,Product arrived damaged and late.,negative
+738,2025-08-24,No major issues but can be better.,neutral
+739,2025-09-10,"Neutral review, it’s acceptable.",neutral
+740,2025-09-27,"The product is okay, not bad.",neutral
+741,2025-07-19,"Great experience, will recommend to others.",positive
+742,2025-05-29,Loved it! Totally worth the money.,positive
+743,2025-06-10,Excellent service and quick response.,positive
+744,2025-07-25,"Very happy with the purchase, thank you!",positive
+745,2025-08-20,"Terrible service, waste of money.",negative
+746,2025-06-22,No major issues but can be better.,neutral
+747,2025-08-17,Average experience overall.,neutral
+748,2025-05-30,Not happy with the quality.,negative
+749,2025-07-01,No major issues but can be better.,neutral
+750,2025-07-02,Loved it! Totally worth the money.,positive
+751,2025-10-02,"It works fine, nothing special.",neutral
+752,2025-10-20,Product arrived damaged and late.,negative
+753,2025-09-19,Very bad experience. Not satisfied at all.,negative
+754,2025-06-05,"It works fine, nothing special.",neutral
+755,2025-07-09,Excellent service and quick response.,positive
+756,2025-08-14,Excellent service and quick response.,positive
+757,2025-10-25,"Terrible service, waste of money.",negative
+758,2025-05-04,Very bad experience. Not satisfied at all.,negative
+759,2025-10-29,Loved it! Totally worth the money.,positive
+760,2025-05-24,Not happy with the quality.,negative
+761,2025-10-17,No major issues but can be better.,neutral
+762,2025-08-29,"Neutral review, it’s acceptable.",neutral
+763,2025-10-27,Loved it! Totally worth the money.,positive
+764,2025-07-21,Average experience overall.,neutral
+765,2025-06-26,"Great experience, will recommend to others.",positive
+766,2025-08-25,The product is amazing! It works perfectly.,positive
+767,2025-10-07,"It works fine, nothing special.",neutral
+768,2025-06-07,Customer support was unhelpful.,negative
+769,2025-10-29,"Terrible service, waste of money.",negative
+770,2025-08-01,The product is amazing! It works perfectly.,positive
+771,2025-05-11,"Neutral review, it’s acceptable.",neutral
+772,2025-06-30,Excellent service and quick response.,positive
+773,2025-06-26,Customer support was unhelpful.,negative
+774,2025-08-04,Average experience overall.,neutral
+775,2025-09-30,Very bad experience. Not satisfied at all.,negative
+776,2025-06-16,No major issues but can be better.,neutral
+777,2025-10-17,Product arrived damaged and late.,negative
+778,2025-09-22,The product is amazing! It works perfectly.,positive
+779,2025-08-13,"Terrible service, waste of money.",negative
+780,2025-08-11,Product arrived damaged and late.,negative
+781,2025-05-29,Product arrived damaged and late.,negative
+782,2025-10-29,"Neutral review, it’s acceptable.",neutral
+783,2025-06-23,Excellent service and quick response.,positive
+784,2025-07-25,"Terrible service, waste of money.",negative
+785,2025-08-07,"Very happy with the purchase, thank you!",positive
+786,2025-06-13,Loved it! Totally worth the money.,positive
+787,2025-06-06,No major issues but can be better.,neutral
+788,2025-06-24,Customer support was unhelpful.,negative
+789,2025-09-05,Product arrived damaged and late.,negative
+790,2025-09-03,Loved it! Totally worth the money.,positive
+791,2025-07-01,No major issues but can be better.,neutral
+792,2025-05-19,"The product is okay, not bad.",neutral
+793,2025-10-01,No major issues but can be better.,neutral
+794,2025-06-30,"Very happy with the purchase, thank you!",positive
+795,2025-07-21,"Terrible service, waste of money.",negative
+796,2025-05-29,No major issues but can be better.,neutral
+797,2025-05-26,No major issues but can be better.,neutral
+798,2025-05-13,"Neutral review, it’s acceptable.",neutral
+799,2025-08-29,No major issues but can be better.,neutral
+800,2025-07-20,Loved it! Totally worth the money.,positive
+801,2025-05-22,"Great experience, will recommend to others.",positive
+802,2025-06-19,Very bad experience. Not satisfied at all.,negative
+803,2025-07-09,Very bad experience. Not satisfied at all.,negative
+804,2025-08-20,"Terrible service, waste of money.",negative
+805,2025-10-10,Product arrived damaged and late.,negative
+806,2025-08-14,Loved it! Totally worth the money.,positive
+807,2025-09-17,Very bad experience. Not satisfied at all.,negative
+808,2025-09-28,No major issues but can be better.,neutral
+809,2025-07-17,Product arrived damaged and late.,negative
+810,2025-05-28,"Very happy with the purchase, thank you!",positive
+811,2025-09-12,No major issues but can be better.,neutral
+812,2025-06-25,Excellent service and quick response.,positive
+813,2025-08-24,Not happy with the quality.,negative
+814,2025-07-23,No major issues but can be better.,neutral
+815,2025-06-23,"Very happy with the purchase, thank you!",positive
+816,2025-10-24,No major issues but can be better.,neutral
+817,2025-08-22,"Very happy with the purchase, thank you!",positive
+818,2025-05-20,"Terrible service, waste of money.",negative
+819,2025-06-20,Not happy with the quality.,negative
+820,2025-07-07,Loved it! Totally worth the money.,positive
+821,2025-08-24,"Neutral review, it’s acceptable.",neutral
+822,2025-10-06,Average experience overall.,neutral
+823,2025-08-28,Customer support was unhelpful.,negative
+824,2025-05-28,Average experience overall.,neutral
+825,2025-08-02,Customer support was unhelpful.,negative
+826,2025-10-24,"It works fine, nothing special.",neutral
+827,2025-07-30,Product arrived damaged and late.,negative
+828,2025-08-25,Excellent service and quick response.,positive
+829,2025-05-23,"Neutral review, it’s acceptable.",neutral
+830,2025-05-14,"Great experience, will recommend to others.",positive
+831,2025-08-03,"Great experience, will recommend to others.",positive
+832,2025-07-02,"Very happy with the purchase, thank you!",positive
+833,2025-07-14,"Very happy with the purchase, thank you!",positive
+834,2025-07-26,Average experience overall.,neutral
+835,2025-06-03,No major issues but can be better.,neutral
+836,2025-07-11,"It works fine, nothing special.",neutral
+837,2025-05-27,"The product is okay, not bad.",neutral
+838,2025-06-05,Average experience overall.,neutral
+839,2025-10-20,Very bad experience. Not satisfied at all.,negative
+840,2025-06-24,"The product is okay, not bad.",neutral
+841,2025-10-22,"The product is okay, not bad.",neutral
+842,2025-09-09,Average experience overall.,neutral
+843,2025-05-14,"It works fine, nothing special.",neutral
+844,2025-08-27,Excellent service and quick response.,positive
+845,2025-05-27,Very bad experience. Not satisfied at all.,negative
+846,2025-07-05,Customer support was unhelpful.,negative
+847,2025-10-05,"It works fine, nothing special.",neutral
+848,2025-09-09,The product is amazing! It works perfectly.,positive
+849,2025-05-07,"It works fine, nothing special.",neutral
+850,2025-08-22,Excellent service and quick response.,positive
+851,2025-08-20,"Neutral review, it’s acceptable.",neutral
+852,2025-06-26,"Neutral review, it’s acceptable.",neutral
+853,2025-08-07,"Terrible service, waste of money.",negative
+854,2025-10-28,"Great experience, will recommend to others.",positive
+855,2025-07-12,Excellent service and quick response.,positive
+856,2025-10-07,Not happy with the quality.,negative
+857,2025-07-30,"It works fine, nothing special.",neutral
+858,2025-06-18,"Neutral review, it’s acceptable.",neutral
+859,2025-05-15,"The product is okay, not bad.",neutral
+860,2025-09-27,The product is amazing! It works perfectly.,positive
+861,2025-09-10,"The product is okay, not bad.",neutral
+862,2025-10-17,Customer support was unhelpful.,negative
+863,2025-10-02,Not happy with the quality.,negative
+864,2025-08-07,Excellent service and quick response.,positive
+865,2025-08-21,Product arrived damaged and late.,negative
+866,2025-10-05,The product is amazing! It works perfectly.,positive
+867,2025-10-19,Very bad experience. Not satisfied at all.,negative
+868,2025-09-08,Loved it! Totally worth the money.,positive
+869,2025-09-02,The product is amazing! It works perfectly.,positive
+870,2025-09-22,No major issues but can be better.,neutral
+871,2025-09-14,"It works fine, nothing special.",neutral
+872,2025-08-18,Average experience overall.,neutral
+873,2025-08-23,Very bad experience. Not satisfied at all.,negative
+874,2025-06-27,Very bad experience. Not satisfied at all.,negative
+875,2025-09-26,"The product is okay, not bad.",neutral
+876,2025-06-06,"The product is okay, not bad.",neutral
+877,2025-05-05,Very bad experience. Not satisfied at all.,negative
+878,2025-06-10,Very bad experience. Not satisfied at all.,negative
+879,2025-10-01,"Terrible service, waste of money.",negative
+880,2025-09-08,Not happy with the quality.,negative
+881,2025-07-05,Very bad experience. Not satisfied at all.,negative
+882,2025-05-07,The product is amazing! It works perfectly.,positive
+883,2025-06-13,The product is amazing! It works perfectly.,positive
+884,2025-08-30,Average experience overall.,neutral
+885,2025-05-27,"It works fine, nothing special.",neutral
+886,2025-05-09,"The product is okay, not bad.",neutral
+887,2025-07-28,The product is amazing! It works perfectly.,positive
+888,2025-09-14,No major issues but can be better.,neutral
+889,2025-07-03,Loved it! Totally worth the money.,positive
+890,2025-10-14,"Terrible service, waste of money.",negative
+891,2025-07-09,Average experience overall.,neutral
+892,2025-10-12,Not happy with the quality.,negative
+893,2025-10-06,Excellent service and quick response.,positive
+894,2025-09-28,Customer support was unhelpful.,negative
+895,2025-06-17,The product is amazing! It works perfectly.,positive
+896,2025-10-12,"Very happy with the purchase, thank you!",positive
+897,2025-07-17,Not happy with the quality.,negative
+898,2025-07-07,Average experience overall.,neutral
+899,2025-07-24,"Great experience, will recommend to others.",positive
+900,2025-07-12,No major issues but can be better.,neutral
+901,2025-10-16,The product is amazing! It works perfectly.,positive
+902,2025-07-25,"Very happy with the purchase, thank you!",positive
+903,2025-09-15,"Terrible service, waste of money.",negative
+904,2025-08-14,"Terrible service, waste of money.",negative
+905,2025-10-28,Very bad experience. Not satisfied at all.,negative
+906,2025-06-15,"Great experience, will recommend to others.",positive
+907,2025-09-09,No major issues but can be better.,neutral
+908,2025-10-20,Not happy with the quality.,negative
+909,2025-10-08,Very bad experience. Not satisfied at all.,negative
+910,2025-07-12,No major issues but can be better.,neutral
+911,2025-09-01,"Great experience, will recommend to others.",positive
+912,2025-10-28,"Great experience, will recommend to others.",positive
+913,2025-10-15,Not happy with the quality.,negative
+914,2025-07-14,No major issues but can be better.,neutral
+915,2025-05-24,"Terrible service, waste of money.",negative
+916,2025-07-02,"It works fine, nothing special.",neutral
+917,2025-05-07,"Great experience, will recommend to others.",positive
+918,2025-05-13,Loved it! Totally worth the money.,positive
+919,2025-10-05,Customer support was unhelpful.,negative
+920,2025-09-04,Very bad experience. Not satisfied at all.,negative
+921,2025-05-25,Product arrived damaged and late.,negative
+922,2025-09-18,"Terrible service, waste of money.",negative
+923,2025-08-29,"Neutral review, it’s acceptable.",neutral
+924,2025-06-14,Loved it! Totally worth the money.,positive
+925,2025-06-16,Not happy with the quality.,negative
+926,2025-05-22,"Neutral review, it’s acceptable.",neutral
+927,2025-06-20,Excellent service and quick response.,positive
+928,2025-09-24,The product is amazing! It works perfectly.,positive
+929,2025-10-06,"It works fine, nothing special.",neutral
+930,2025-06-02,The product is amazing! It works perfectly.,positive
+931,2025-06-17,"It works fine, nothing special.",neutral
+932,2025-08-26,"Neutral review, it’s acceptable.",neutral
+933,2025-06-30,The product is amazing! It works perfectly.,positive
+934,2025-10-22,Excellent service and quick response.,positive
+935,2025-08-14,"It works fine, nothing special.",neutral
+936,2025-08-31,Very bad experience. Not satisfied at all.,negative
+937,2025-06-25,Not happy with the quality.,negative
+938,2025-09-13,"The product is okay, not bad.",neutral
+939,2025-05-13,"Neutral review, it’s acceptable.",neutral
+940,2025-09-29,"It works fine, nothing special.",neutral
+941,2025-06-12,Loved it! Totally worth the money.,positive
+942,2025-07-05,"The product is okay, not bad.",neutral
+943,2025-10-03,"Neutral review, it’s acceptable.",neutral
+944,2025-07-03,"Neutral review, it’s acceptable.",neutral
+945,2025-06-04,"Very happy with the purchase, thank you!",positive
+946,2025-08-13,The product is amazing! It works perfectly.,positive
+947,2025-07-08,"Very happy with the purchase, thank you!",positive
+948,2025-09-01,Customer support was unhelpful.,negative
+949,2025-09-24,"Very happy with the purchase, thank you!",positive
+950,2025-09-07,"It works fine, nothing special.",neutral
+951,2025-05-16,Excellent service and quick response.,positive
+952,2025-10-01,"The product is okay, not bad.",neutral
+953,2025-05-27,Very bad experience. Not satisfied at all.,negative
+954,2025-05-20,Very bad experience. Not satisfied at all.,negative
+955,2025-05-31,Average experience overall.,neutral
+956,2025-05-19,Average experience overall.,neutral
+957,2025-08-09,"Neutral review, it’s acceptable.",neutral
+958,2025-09-17,Excellent service and quick response.,positive
+959,2025-05-05,Not happy with the quality.,negative
+960,2025-10-21,Not happy with the quality.,negative
+961,2025-08-28,Customer support was unhelpful.,negative
+962,2025-08-08,Very bad experience. Not satisfied at all.,negative
+963,2025-07-20,"Neutral review, it’s acceptable.",neutral
+964,2025-08-20,"The product is okay, not bad.",neutral
+965,2025-10-21,No major issues but can be better.,neutral
+966,2025-08-25,"Terrible service, waste of money.",negative
+967,2025-06-29,Average experience overall.,neutral
+968,2025-10-27,Product arrived damaged and late.,negative
+969,2025-07-24,"Neutral review, it’s acceptable.",neutral
+970,2025-05-09,"Very happy with the purchase, thank you!",positive
+971,2025-09-13,Loved it! Totally worth the money.,positive
+972,2025-05-21,Very bad experience. Not satisfied at all.,negative
+973,2025-06-16,The product is amazing! It works perfectly.,positive
+974,2025-08-20,"Neutral review, it’s acceptable.",neutral
+975,2025-10-26,Average experience overall.,neutral
+976,2025-09-27,Product arrived damaged and late.,negative
+977,2025-07-27,"Terrible service, waste of money.",negative
+978,2025-07-29,"Neutral review, it’s acceptable.",neutral
+979,2025-09-28,Product arrived damaged and late.,negative
+980,2025-06-10,Product arrived damaged and late.,negative
+981,2025-09-10,Very bad experience. Not satisfied at all.,negative
+982,2025-09-22,"Neutral review, it’s acceptable.",neutral
+983,2025-10-27,"It works fine, nothing special.",neutral
+984,2025-10-14,"The product is okay, not bad.",neutral
+985,2025-05-11,Product arrived damaged and late.,negative
+986,2025-08-20,"Neutral review, it’s acceptable.",neutral
+987,2025-05-22,"Neutral review, it’s acceptable.",neutral
+988,2025-08-23,"Very happy with the purchase, thank you!",positive
+989,2025-07-16,Very bad experience. Not satisfied at all.,negative
+990,2025-08-26,The product is amazing! It works perfectly.,positive
+991,2025-06-30,Loved it! Totally worth the money.,positive
+992,2025-05-30,Customer support was unhelpful.,negative
+993,2025-07-02,"It works fine, nothing special.",neutral
+994,2025-06-24,Not happy with the quality.,negative
+995,2025-07-17,"It works fine, nothing special.",neutral
+996,2025-07-08,Very bad experience. Not satisfied at all.,negative
+997,2025-05-19,No major issues but can be better.,neutral
+998,2025-10-23,"Great experience, will recommend to others.",positive
+999,2025-07-18,Customer support was unhelpful.,negative
+1000,2025-06-20,The product is amazing! It works perfectly.,positive
+1001,2025-08-24,Excellent service and quick response.,positive
+1002,2025-07-27,Not happy with the quality.,negative
+1003,2025-05-08,No major issues but can be better.,neutral
+1004,2025-05-31,The product is amazing! It works perfectly.,positive
+1005,2025-08-24,"Great experience, will recommend to others.",positive
+1006,2025-07-28,"It works fine, nothing special.",neutral
+1007,2025-08-27,Customer support was unhelpful.,negative
+1008,2025-10-10,Product arrived damaged and late.,negative
+1009,2025-07-11,The product is amazing! It works perfectly.,positive
+1010,2025-05-04,Customer support was unhelpful.,negative
+1011,2025-08-22,No major issues but can be better.,neutral
+1012,2025-08-07,"Very happy with the purchase, thank you!",positive
+1013,2025-08-09,No major issues but can be better.,neutral
+1014,2025-08-28,No major issues but can be better.,neutral
+1015,2025-09-20,"It works fine, nothing special.",neutral
+1016,2025-05-20,Product arrived damaged and late.,negative
+1017,2025-08-12,"Great experience, will recommend to others.",positive
+1018,2025-09-12,"It works fine, nothing special.",neutral
+1019,2025-06-17,"Terrible service, waste of money.",negative
+1020,2025-08-19,Customer support was unhelpful.,negative
+1021,2025-06-05,Excellent service and quick response.,positive
+1022,2025-06-03,Average experience overall.,neutral
+1023,2025-10-23,Excellent service and quick response.,positive
+1024,2025-06-06,Customer support was unhelpful.,negative
+1025,2025-07-25,"Terrible service, waste of money.",negative
+1026,2025-06-05,Customer support was unhelpful.,negative
+1027,2025-10-11,Not happy with the quality.,negative
+1028,2025-07-18,Excellent service and quick response.,positive
+1029,2025-10-29,Very bad experience. Not satisfied at all.,negative
+1030,2025-08-09,"It works fine, nothing special.",neutral
+1031,2025-09-22,"The product is okay, not bad.",neutral
+1032,2025-06-26,"Great experience, will recommend to others.",positive
+1033,2025-09-26,Average experience overall.,neutral
+1034,2025-05-03,Loved it! Totally worth the money.,positive
+1035,2025-08-06,The product is amazing! It works perfectly.,positive
+1036,2025-07-20,Loved it! Totally worth the money.,positive
+1037,2025-07-16,"Great experience, will recommend to others.",positive
+1038,2025-06-17,"The product is okay, not bad.",neutral
+1039,2025-10-28,Loved it! Totally worth the money.,positive
+1040,2025-06-06,The product is amazing! It works perfectly.,positive
+1041,2025-06-03,Average experience overall.,neutral
+1042,2025-05-03,No major issues but can be better.,neutral
+1043,2025-09-19,"Terrible service, waste of money.",negative
+1044,2025-06-16,"Very happy with the purchase, thank you!",positive
+1045,2025-06-30,Excellent service and quick response.,positive
+1046,2025-10-15,"Terrible service, waste of money.",negative
+1047,2025-05-10,Excellent service and quick response.,positive
+1048,2025-06-02,Not happy with the quality.,negative
+1049,2025-06-22,Not happy with the quality.,negative
+1050,2025-06-12,"Great experience, will recommend to others.",positive
+1051,2025-08-21,Loved it! Totally worth the money.,positive
+1052,2025-06-09,Loved it! Totally worth the money.,positive
+1053,2025-10-25,Average experience overall.,neutral
+1054,2025-10-12,"It works fine, nothing special.",neutral
+1055,2025-05-07,Average experience overall.,neutral
+1056,2025-09-12,Very bad experience. Not satisfied at all.,negative
+1057,2025-10-14,"The product is okay, not bad.",neutral
+1058,2025-09-27,Not happy with the quality.,negative
+1059,2025-09-11,"Neutral review, it’s acceptable.",neutral
+1060,2025-08-19,"Great experience, will recommend to others.",positive
+1061,2025-06-02,Very bad experience. Not satisfied at all.,negative
+1062,2025-08-06,Product arrived damaged and late.,negative
+1063,2025-09-19,Customer support was unhelpful.,negative
+1064,2025-07-07,Very bad experience. Not satisfied at all.,negative
+1065,2025-09-10,"It works fine, nothing special.",neutral
+1066,2025-06-26,"Very happy with the purchase, thank you!",positive
+1067,2025-09-10,Not happy with the quality.,negative
+1068,2025-08-18,Product arrived damaged and late.,negative
+1069,2025-05-05,Loved it! Totally worth the money.,positive
+1070,2025-08-22,"It works fine, nothing special.",neutral
+1071,2025-09-17,"Neutral review, it’s acceptable.",neutral
+1072,2025-10-08,Loved it! Totally worth the money.,positive
+1073,2025-06-08,Product arrived damaged and late.,negative
+1074,2025-07-27,Not happy with the quality.,negative
+1075,2025-05-08,"Very happy with the purchase, thank you!",positive
+1076,2025-05-16,Customer support was unhelpful.,negative
+1077,2025-10-07,The product is amazing! It works perfectly.,positive
+1078,2025-05-04,"Neutral review, it’s acceptable.",neutral
+1079,2025-10-11,"Great experience, will recommend to others.",positive
+1080,2025-07-03,The product is amazing! It works perfectly.,positive
+1081,2025-08-06,"Very happy with the purchase, thank you!",positive
+1082,2025-05-13,Excellent service and quick response.,positive
+1083,2025-08-02,Loved it! Totally worth the money.,positive
+1084,2025-09-29,"It works fine, nothing special.",neutral
+1085,2025-10-15,"It works fine, nothing special.",neutral
+1086,2025-07-12,Very bad experience. Not satisfied at all.,negative
+1087,2025-08-16,Very bad experience. Not satisfied at all.,negative
+1088,2025-07-17,Product arrived damaged and late.,negative
+1089,2025-06-26,The product is amazing! It works perfectly.,positive
+1090,2025-05-03,Loved it! Totally worth the money.,positive
+1091,2025-09-05,Product arrived damaged and late.,negative
+1092,2025-05-25,The product is amazing! It works perfectly.,positive
+1093,2025-05-17,"The product is okay, not bad.",neutral
+1094,2025-06-02,Very bad experience. Not satisfied at all.,negative
+1095,2025-10-11,No major issues but can be better.,neutral
+1096,2025-05-24,No major issues but can be better.,neutral
+1097,2025-07-08,Not happy with the quality.,negative
+1098,2025-07-08,"The product is okay, not bad.",neutral
+1099,2025-10-27,"It works fine, nothing special.",neutral
+1100,2025-10-03,Excellent service and quick response.,positive
+1101,2025-05-04,Customer support was unhelpful.,negative
+1102,2025-06-08,Very bad experience. Not satisfied at all.,negative
+1103,2025-07-31,"Neutral review, it’s acceptable.",neutral
+1104,2025-07-29,"Very happy with the purchase, thank you!",positive
+1105,2025-06-04,"The product is okay, not bad.",neutral
+1106,2025-08-25,"Terrible service, waste of money.",negative
+1107,2025-10-20,"The product is okay, not bad.",neutral
+1108,2025-05-23,"Great experience, will recommend to others.",positive
+1109,2025-10-14,"Very happy with the purchase, thank you!",positive
+1110,2025-07-04,Customer support was unhelpful.,negative
+1111,2025-10-15,"The product is okay, not bad.",neutral
+1112,2025-06-25,Very bad experience. Not satisfied at all.,negative
+1113,2025-06-14,The product is amazing! It works perfectly.,positive
+1114,2025-05-25,"Terrible service, waste of money.",negative
+1115,2025-05-17,Loved it! Totally worth the money.,positive
+1116,2025-08-27,The product is amazing! It works perfectly.,positive
+1117,2025-05-08,Excellent service and quick response.,positive
+1118,2025-10-03,"It works fine, nothing special.",neutral
+1119,2025-09-05,Average experience overall.,neutral
+1120,2025-05-21,"Great experience, will recommend to others.",positive
+1121,2025-10-10,Average experience overall.,neutral
+1122,2025-09-05,Excellent service and quick response.,positive
+1123,2025-08-16,The product is amazing! It works perfectly.,positive
+1124,2025-06-28,Not happy with the quality.,negative
+1125,2025-06-19,Excellent service and quick response.,positive
+1126,2025-09-07,"Very happy with the purchase, thank you!",positive
+1127,2025-05-15,"Very happy with the purchase, thank you!",positive
+1128,2025-07-27,Excellent service and quick response.,positive
+1129,2025-05-09,Customer support was unhelpful.,negative
+1130,2025-10-04,"Very happy with the purchase, thank you!",positive
+1131,2025-06-12,Loved it! Totally worth the money.,positive
+1132,2025-09-06,No major issues but can be better.,neutral
+1133,2025-09-26,Product arrived damaged and late.,negative
+1134,2025-06-05,"Neutral review, it’s acceptable.",neutral
+1135,2025-07-16,"Very happy with the purchase, thank you!",positive
+1136,2025-09-13,"The product is okay, not bad.",neutral
+1137,2025-07-26,"The product is okay, not bad.",neutral
+1138,2025-07-18,"Neutral review, it’s acceptable.",neutral
+1139,2025-05-21,"Terrible service, waste of money.",negative
+1140,2025-06-14,Excellent service and quick response.,positive
+1141,2025-05-23,Customer support was unhelpful.,negative
+1142,2025-09-17,"Very happy with the purchase, thank you!",positive
+1143,2025-09-04,Excellent service and quick response.,positive
+1144,2025-08-08,"Neutral review, it’s acceptable.",neutral
+1145,2025-09-08,"Very happy with the purchase, thank you!",positive
+1146,2025-08-27,No major issues but can be better.,neutral
+1147,2025-07-02,Product arrived damaged and late.,negative
+1148,2025-10-25,No major issues but can be better.,neutral
+1149,2025-05-15,"Terrible service, waste of money.",negative
+1150,2025-07-05,Customer support was unhelpful.,negative
+1151,2025-09-20,"It works fine, nothing special.",neutral
+1152,2025-05-06,Average experience overall.,neutral
+1153,2025-09-07,"Great experience, will recommend to others.",positive
+1154,2025-10-27,Very bad experience. Not satisfied at all.,negative
+1155,2025-05-18,"The product is okay, not bad.",neutral
+1156,2025-10-20,Loved it! Totally worth the money.,positive
+1157,2025-09-12,"Terrible service, waste of money.",negative
+1158,2025-07-16,The product is amazing! It works perfectly.,positive
+1159,2025-09-16,Excellent service and quick response.,positive
+1160,2025-09-15,"It works fine, nothing special.",neutral
+1161,2025-07-27,"It works fine, nothing special.",neutral
+1162,2025-07-26,Very bad experience. Not satisfied at all.,negative
+1163,2025-05-13,"It works fine, nothing special.",neutral
+1164,2025-10-26,Not happy with the quality.,negative
+1165,2025-05-17,"It works fine, nothing special.",neutral
+1166,2025-07-24,Very bad experience. Not satisfied at all.,negative
+1167,2025-10-29,"Terrible service, waste of money.",negative
+1168,2025-10-25,"Great experience, will recommend to others.",positive
+1169,2025-07-17,"The product is okay, not bad.",neutral
+1170,2025-10-27,Very bad experience. Not satisfied at all.,negative
+1171,2025-10-17,"Very happy with the purchase, thank you!",positive
+1172,2025-06-30,Product arrived damaged and late.,negative
+1173,2025-07-30,Customer support was unhelpful.,negative
+1174,2025-08-04,Not happy with the quality.,negative
+1175,2025-07-29,Very bad experience. Not satisfied at all.,negative
+1176,2025-10-04,"It works fine, nothing special.",neutral
+1177,2025-09-06,No major issues but can be better.,neutral
+1178,2025-10-22,Not happy with the quality.,negative
+1179,2025-07-05,"Neutral review, it’s acceptable.",neutral
+1180,2025-06-19,"Great experience, will recommend to others.",positive
+1181,2025-06-26,"It works fine, nothing special.",neutral
+1182,2025-10-30,Not happy with the quality.,negative
+1183,2025-06-12,No major issues but can be better.,neutral
+1184,2025-07-22,No major issues but can be better.,neutral
+1185,2025-08-25,No major issues but can be better.,neutral
+1186,2025-06-30,The product is amazing! It works perfectly.,positive
+1187,2025-06-21,No major issues but can be better.,neutral
+1188,2025-08-09,Very bad experience. Not satisfied at all.,negative
+1189,2025-07-22,"The product is okay, not bad.",neutral
+1190,2025-09-01,Excellent service and quick response.,positive
+1191,2025-09-21,"Terrible service, waste of money.",negative
+1192,2025-06-22,The product is amazing! It works perfectly.,positive
+1193,2025-09-20,"Great experience, will recommend to others.",positive
+1194,2025-10-30,Customer support was unhelpful.,negative
+1195,2025-07-08,Very bad experience. Not satisfied at all.,negative
+1196,2025-08-25,"Very happy with the purchase, thank you!",positive
+1197,2025-10-30,Excellent service and quick response.,positive
+1198,2025-10-05,Product arrived damaged and late.,negative
+1199,2025-08-04,"The product is okay, not bad.",neutral
+1200,2025-09-09,Not happy with the quality.,negative
+1201,2025-08-23,Loved it! Totally worth the money.,positive
+1202,2025-10-01,No major issues but can be better.,neutral
+1203,2025-08-20,"Very happy with the purchase, thank you!",positive
+1204,2025-10-20,"Very happy with the purchase, thank you!",positive
+1205,2025-10-03,"Terrible service, waste of money.",negative
+1206,2025-08-30,"The product is okay, not bad.",neutral
+1207,2025-10-11,"Terrible service, waste of money.",negative
+1208,2025-09-23,Product arrived damaged and late.,negative
+1209,2025-10-11,The product is amazing! It works perfectly.,positive
+1210,2025-10-03,"The product is okay, not bad.",neutral
+1211,2025-07-24,Customer support was unhelpful.,negative
+1212,2025-06-06,"Great experience, will recommend to others.",positive
+1213,2025-08-05,Product arrived damaged and late.,negative
+1214,2025-08-13,Not happy with the quality.,negative
+1215,2025-09-08,No major issues but can be better.,neutral
+1216,2025-05-09,The product is amazing! It works perfectly.,positive
+1217,2025-07-31,Loved it! Totally worth the money.,positive
+1218,2025-07-15,No major issues but can be better.,neutral
+1219,2025-05-18,Excellent service and quick response.,positive
+1220,2025-10-27,"Neutral review, it’s acceptable.",neutral
+1221,2025-08-29,Average experience overall.,neutral
+1222,2025-05-26,Not happy with the quality.,negative
+1223,2025-06-18,"Terrible service, waste of money.",negative
+1224,2025-08-29,"Neutral review, it’s acceptable.",neutral
+1225,2025-09-24,"Neutral review, it’s acceptable.",neutral
+1226,2025-05-15,"The product is okay, not bad.",neutral
+1227,2025-07-31,"The product is okay, not bad.",neutral
+1228,2025-08-02,Not happy with the quality.,negative
+1229,2025-07-19,The product is amazing! It works perfectly.,positive
+1230,2025-06-27,Loved it! Totally worth the money.,positive
+1231,2025-08-07,Excellent service and quick response.,positive
+1232,2025-06-27,"It works fine, nothing special.",neutral
+1233,2025-08-02,No major issues but can be better.,neutral
+1234,2025-10-27,No major issues but can be better.,neutral
+1235,2025-07-12,"It works fine, nothing special.",neutral
+1236,2025-05-26,"The product is okay, not bad.",neutral
+1237,2025-08-01,"It works fine, nothing special.",neutral
+1238,2025-07-05,Customer support was unhelpful.,negative
+1239,2025-08-11,"Terrible service, waste of money.",negative
+1240,2025-10-28,No major issues but can be better.,neutral
+1241,2025-09-18,"Terrible service, waste of money.",negative
+1242,2025-05-18,Excellent service and quick response.,positive
+1243,2025-10-14,"Very happy with the purchase, thank you!",positive
+1244,2025-10-12,Very bad experience. Not satisfied at all.,negative
+1245,2025-06-30,"It works fine, nothing special.",neutral
+1246,2025-06-23,"Neutral review, it’s acceptable.",neutral
+1247,2025-10-28,Excellent service and quick response.,positive
+1248,2025-07-29,"Very happy with the purchase, thank you!",positive
+1249,2025-10-20,Customer support was unhelpful.,negative
+1250,2025-07-05,"The product is okay, not bad.",neutral
+1251,2025-05-11,Very bad experience. Not satisfied at all.,negative
+1252,2025-06-02,"Very happy with the purchase, thank you!",positive
+1253,2025-08-03,Loved it! Totally worth the money.,positive
+1254,2025-09-16,Average experience overall.,neutral
+1255,2025-06-21,"The product is okay, not bad.",neutral
+1256,2025-06-11,Product arrived damaged and late.,negative
+1257,2025-05-17,No major issues but can be better.,neutral
+1258,2025-07-13,Product arrived damaged and late.,negative
+1259,2025-09-19,Average experience overall.,neutral
+1260,2025-06-02,"The product is okay, not bad.",neutral
+1261,2025-07-06,Excellent service and quick response.,positive
+1262,2025-09-06,Average experience overall.,neutral
+1263,2025-09-08,The product is amazing! It works perfectly.,positive
+1264,2025-05-12,Loved it! Totally worth the money.,positive
+1265,2025-09-18,Product arrived damaged and late.,negative
+1266,2025-06-20,No major issues but can be better.,neutral
+1267,2025-10-15,The product is amazing! It works perfectly.,positive
+1268,2025-05-07,Customer support was unhelpful.,negative
+1269,2025-05-20,Average experience overall.,neutral
+1270,2025-06-03,Average experience overall.,neutral
+1271,2025-06-26,Loved it! Totally worth the money.,positive
+1272,2025-06-15,"Very happy with the purchase, thank you!",positive
+1273,2025-08-09,Product arrived damaged and late.,negative
+1274,2025-05-16,"It works fine, nothing special.",neutral
+1275,2025-07-21,Average experience overall.,neutral
+1276,2025-10-16,Average experience overall.,neutral
+1277,2025-06-25,Product arrived damaged and late.,negative
+1278,2025-08-07,"It works fine, nothing special.",neutral
+1279,2025-07-04,Very bad experience. Not satisfied at all.,negative
+1280,2025-07-08,"Neutral review, it’s acceptable.",neutral
+1281,2025-05-25,Not happy with the quality.,negative
+1282,2025-09-26,Excellent service and quick response.,positive
+1283,2025-09-24,"It works fine, nothing special.",neutral
+1284,2025-08-29,"Neutral review, it’s acceptable.",neutral
+1285,2025-05-30,Not happy with the quality.,negative
+1286,2025-10-17,"Neutral review, it’s acceptable.",neutral
+1287,2025-09-15,Product arrived damaged and late.,negative
+1288,2025-07-12,"Great experience, will recommend to others.",positive
+1289,2025-06-24,"Very happy with the purchase, thank you!",positive
+1290,2025-09-26,Not happy with the quality.,negative
+1291,2025-07-11,Loved it! Totally worth the money.,positive
+1292,2025-10-07,"Neutral review, it’s acceptable.",neutral
+1293,2025-06-26,Excellent service and quick response.,positive
+1294,2025-07-12,Very bad experience. Not satisfied at all.,negative
+1295,2025-07-23,Product arrived damaged and late.,negative
+1296,2025-10-17,Not happy with the quality.,negative
+1297,2025-05-10,Average experience overall.,neutral
+1298,2025-09-10,Loved it! Totally worth the money.,positive
+1299,2025-08-05,Very bad experience. Not satisfied at all.,negative
+1300,2025-10-12,Very bad experience. Not satisfied at all.,negative
+1301,2025-07-02,Product arrived damaged and late.,negative
+1302,2025-06-10,Loved it! Totally worth the money.,positive
+1303,2025-07-23,Customer support was unhelpful.,negative
+1304,2025-08-23,Excellent service and quick response.,positive
+1305,2025-07-20,The product is amazing! It works perfectly.,positive
+1306,2025-09-30,"Great experience, will recommend to others.",positive
+1307,2025-08-20,Loved it! Totally worth the money.,positive
+1308,2025-10-15,"It works fine, nothing special.",neutral
+1309,2025-07-23,"Great experience, will recommend to others.",positive
+1310,2025-10-25,"Neutral review, it’s acceptable.",neutral
+1311,2025-09-09,The product is amazing! It works perfectly.,positive
+1312,2025-05-11,No major issues but can be better.,neutral
+1313,2025-10-11,"Great experience, will recommend to others.",positive
+1314,2025-05-19,Customer support was unhelpful.,negative
+1315,2025-07-19,Excellent service and quick response.,positive
+1316,2025-06-16,Customer support was unhelpful.,negative
+1317,2025-05-28,"The product is okay, not bad.",neutral
+1318,2025-06-08,"Terrible service, waste of money.",negative
+1319,2025-05-04,Excellent service and quick response.,positive
+1320,2025-08-09,"Great experience, will recommend to others.",positive
+1321,2025-06-10,Customer support was unhelpful.,negative
+1322,2025-05-05,The product is amazing! It works perfectly.,positive
+1323,2025-10-24,Not happy with the quality.,negative
+1324,2025-05-20,Not happy with the quality.,negative
+1325,2025-09-23,No major issues but can be better.,neutral
+1326,2025-05-12,Customer support was unhelpful.,negative
+1327,2025-09-06,"Terrible service, waste of money.",negative
+1328,2025-10-16,"Terrible service, waste of money.",negative
+1329,2025-07-17,"Terrible service, waste of money.",negative
+1330,2025-06-23,"It works fine, nothing special.",neutral
+1331,2025-08-15,"It works fine, nothing special.",neutral
+1332,2025-07-09,Excellent service and quick response.,positive
+1333,2025-10-07,"Very happy with the purchase, thank you!",positive
+1334,2025-09-16,"It works fine, nothing special.",neutral
+1335,2025-07-06,Product arrived damaged and late.,negative
+1336,2025-07-27,"It works fine, nothing special.",neutral
+1337,2025-05-19,"The product is okay, not bad.",neutral
+1338,2025-08-29,Product arrived damaged and late.,negative
+1339,2025-09-24,Excellent service and quick response.,positive
+1340,2025-06-05,Average experience overall.,neutral
+1341,2025-10-29,"Very happy with the purchase, thank you!",positive
+1342,2025-08-16,Average experience overall.,neutral
+1343,2025-07-05,"The product is okay, not bad.",neutral
+1344,2025-05-31,"Great experience, will recommend to others.",positive
+1345,2025-05-24,"Terrible service, waste of money.",negative
+1346,2025-05-11,No major issues but can be better.,neutral
+1347,2025-10-03,"Very happy with the purchase, thank you!",positive
+1348,2025-10-28,Customer support was unhelpful.,negative
+1349,2025-07-02,Excellent service and quick response.,positive
+1350,2025-09-10,No major issues but can be better.,neutral
+1351,2025-05-05,Not happy with the quality.,negative
+1352,2025-08-02,"Terrible service, waste of money.",negative
+1353,2025-06-04,Average experience overall.,neutral
+1354,2025-06-05,Excellent service and quick response.,positive
+1355,2025-05-29,The product is amazing! It works perfectly.,positive
+1356,2025-09-12,"Neutral review, it’s acceptable.",neutral
+1357,2025-07-02,"Great experience, will recommend to others.",positive
+1358,2025-08-19,No major issues but can be better.,neutral
+1359,2025-10-12,Product arrived damaged and late.,negative
+1360,2025-09-21,No major issues but can be better.,neutral
+1361,2025-08-15,"Neutral review, it’s acceptable.",neutral
+1362,2025-09-28,Average experience overall.,neutral
+1363,2025-10-01,Excellent service and quick response.,positive
+1364,2025-08-16,No major issues but can be better.,neutral
+1365,2025-10-27,Average experience overall.,neutral
+1366,2025-08-14,Average experience overall.,neutral
+1367,2025-05-29,No major issues but can be better.,neutral
+1368,2025-05-07,Not happy with the quality.,negative
+1369,2025-08-16,Average experience overall.,neutral
+1370,2025-09-17,Product arrived damaged and late.,negative
+1371,2025-07-26,"The product is okay, not bad.",neutral
+1372,2025-09-26,Very bad experience. Not satisfied at all.,negative
+1373,2025-10-13,Excellent service and quick response.,positive
+1374,2025-09-03,"Great experience, will recommend to others.",positive
+1375,2025-05-09,"Great experience, will recommend to others.",positive
+1376,2025-06-29,Not happy with the quality.,negative
+1377,2025-08-30,The product is amazing! It works perfectly.,positive
+1378,2025-09-28,"Neutral review, it’s acceptable.",neutral
+1379,2025-10-29,Excellent service and quick response.,positive
+1380,2025-10-01,"The product is okay, not bad.",neutral
+1381,2025-06-27,No major issues but can be better.,neutral
+1382,2025-08-05,No major issues but can be better.,neutral
+1383,2025-10-26,Customer support was unhelpful.,negative
+1384,2025-06-25,Excellent service and quick response.,positive
+1385,2025-06-04,No major issues but can be better.,neutral
+1386,2025-09-08,"Terrible service, waste of money.",negative
+1387,2025-06-09,Excellent service and quick response.,positive
+1388,2025-08-06,Very bad experience. Not satisfied at all.,negative
+1389,2025-05-15,"Very happy with the purchase, thank you!",positive
+1390,2025-07-20,"Terrible service, waste of money.",negative
+1391,2025-09-23,"Very happy with the purchase, thank you!",positive
+1392,2025-10-10,Product arrived damaged and late.,negative
+1393,2025-10-23,"The product is okay, not bad.",neutral
+1394,2025-09-25,"Terrible service, waste of money.",negative
+1395,2025-08-11,"The product is okay, not bad.",neutral
+1396,2025-07-20,"The product is okay, not bad.",neutral
+1397,2025-06-06,Customer support was unhelpful.,negative
+1398,2025-06-17,Customer support was unhelpful.,negative
+1399,2025-06-10,"Very happy with the purchase, thank you!",positive
+1400,2025-07-03,"It works fine, nothing special.",neutral
+1401,2025-10-16,Very bad experience. Not satisfied at all.,negative
+1402,2025-06-19,Not happy with the quality.,negative
+1403,2025-08-25,Not happy with the quality.,negative
+1404,2025-08-30,Excellent service and quick response.,positive
+1405,2025-05-21,Loved it! Totally worth the money.,positive
+1406,2025-07-06,Average experience overall.,neutral
+1407,2025-07-16,Very bad experience. Not satisfied at all.,negative
+1408,2025-09-28,"Great experience, will recommend to others.",positive
+1409,2025-10-07,"Very happy with the purchase, thank you!",positive
+1410,2025-09-16,"The product is okay, not bad.",neutral
+1411,2025-09-26,Very bad experience. Not satisfied at all.,negative
+1412,2025-10-13,"Neutral review, it’s acceptable.",neutral
+1413,2025-09-05,Customer support was unhelpful.,negative
+1414,2025-09-03,Loved it! Totally worth the money.,positive
+1415,2025-08-12,"Terrible service, waste of money.",negative
+1416,2025-05-30,Not happy with the quality.,negative
+1417,2025-06-04,Excellent service and quick response.,positive
+1418,2025-07-25,"Very happy with the purchase, thank you!",positive
+1419,2025-05-11,Loved it! Totally worth the money.,positive
+1420,2025-05-25,"Very happy with the purchase, thank you!",positive
+1421,2025-10-22,Average experience overall.,neutral
+1422,2025-06-01,"The product is okay, not bad.",neutral
+1423,2025-10-04,Customer support was unhelpful.,negative
+1424,2025-09-14,The product is amazing! It works perfectly.,positive
+1425,2025-09-21,"Great experience, will recommend to others.",positive
+1426,2025-06-11,"Neutral review, it’s acceptable.",neutral
+1427,2025-05-03,"It works fine, nothing special.",neutral
+1428,2025-08-22,The product is amazing! It works perfectly.,positive
+1429,2025-09-21,Very bad experience. Not satisfied at all.,negative
+1430,2025-10-08,The product is amazing! It works perfectly.,positive
+1431,2025-10-26,No major issues but can be better.,neutral
+1432,2025-10-19,Very bad experience. Not satisfied at all.,negative
+1433,2025-05-21,"Great experience, will recommend to others.",positive
+1434,2025-08-19,Loved it! Totally worth the money.,positive
+1435,2025-06-28,Very bad experience. Not satisfied at all.,negative
+1436,2025-10-29,"Neutral review, it’s acceptable.",neutral
+1437,2025-10-24,"Neutral review, it’s acceptable.",neutral
+1438,2025-06-24,"The product is okay, not bad.",neutral
+1439,2025-05-09,Not happy with the quality.,negative
+1440,2025-05-11,The product is amazing! It works perfectly.,positive
+1441,2025-08-26,Product arrived damaged and late.,negative
+1442,2025-06-23,Very bad experience. Not satisfied at all.,negative
+1443,2025-09-29,Excellent service and quick response.,positive
+1444,2025-05-11,"It works fine, nothing special.",neutral
+1445,2025-08-26,"It works fine, nothing special.",neutral
+1446,2025-09-19,"Great experience, will recommend to others.",positive
+1447,2025-06-11,Product arrived damaged and late.,negative
+1448,2025-06-11,"It works fine, nothing special.",neutral
+1449,2025-08-07,"Great experience, will recommend to others.",positive
+1450,2025-08-24,Average experience overall.,neutral
+1451,2025-06-24,"Neutral review, it’s acceptable.",neutral
+1452,2025-10-05,The product is amazing! It works perfectly.,positive
+1453,2025-07-18,Not happy with the quality.,negative
+1454,2025-05-24,"Neutral review, it’s acceptable.",neutral
+1455,2025-08-07,"Neutral review, it’s acceptable.",neutral
+1456,2025-07-29,"Terrible service, waste of money.",negative
+1457,2025-09-27,"It works fine, nothing special.",neutral
+1458,2025-10-29,"Great experience, will recommend to others.",positive
+1459,2025-05-05,Customer support was unhelpful.,negative
+1460,2025-06-09,No major issues but can be better.,neutral
+1461,2025-08-05,Excellent service and quick response.,positive
+1462,2025-05-04,Not happy with the quality.,negative
+1463,2025-05-10,"The product is okay, not bad.",neutral
+1464,2025-10-17,Customer support was unhelpful.,negative
+1465,2025-10-15,"Great experience, will recommend to others.",positive
+1466,2025-09-16,Product arrived damaged and late.,negative
+1467,2025-05-23,"The product is okay, not bad.",neutral
+1468,2025-09-19,The product is amazing! It works perfectly.,positive
+1469,2025-07-09,"Neutral review, it’s acceptable.",neutral
+1470,2025-09-01,"Great experience, will recommend to others.",positive
+1471,2025-07-07,"Great experience, will recommend to others.",positive
+1472,2025-10-11,The product is amazing! It works perfectly.,positive
+1473,2025-07-29,"Very happy with the purchase, thank you!",positive
+1474,2025-10-29,The product is amazing! It works perfectly.,positive
+1475,2025-07-28,No major issues but can be better.,neutral
+1476,2025-10-12,Excellent service and quick response.,positive
+1477,2025-08-21,"Neutral review, it’s acceptable.",neutral
+1478,2025-05-12,"Great experience, will recommend to others.",positive
+1479,2025-09-22,"Great experience, will recommend to others.",positive
+1480,2025-07-16,Average experience overall.,neutral
+1481,2025-06-14,Excellent service and quick response.,positive
+1482,2025-07-22,"Terrible service, waste of money.",negative
+1483,2025-10-13,The product is amazing! It works perfectly.,positive
+1484,2025-09-04,No major issues but can be better.,neutral
+1485,2025-08-31,No major issues but can be better.,neutral
+1486,2025-10-28,The product is amazing! It works perfectly.,positive
+1487,2025-08-30,Customer support was unhelpful.,negative
+1488,2025-07-23,"Neutral review, it’s acceptable.",neutral
+1489,2025-06-29,Very bad experience. Not satisfied at all.,negative
+1490,2025-05-11,No major issues but can be better.,neutral
+1491,2025-07-14,No major issues but can be better.,neutral
+1492,2025-10-30,The product is amazing! It works perfectly.,positive
+1493,2025-10-22,"Neutral review, it’s acceptable.",neutral
+1494,2025-09-01,No major issues but can be better.,neutral
+1495,2025-09-18,"Great experience, will recommend to others.",positive
+1496,2025-05-10,"Terrible service, waste of money.",negative
+1497,2025-06-20,The product is amazing! It works perfectly.,positive
+1498,2025-08-25,Very bad experience. Not satisfied at all.,negative
+1499,2025-07-30,Customer support was unhelpful.,negative
+1500,2025-05-28,"Very happy with the purchase, thank you!",positive

@@ -1,0 +1,8 @@
+Data source: ../src/feedback_with_summaries_100.csv
+Days in series: 77
+Top LDA topics (id: top words):
+ - Topic 0: 0.141*"with" + 0.141*"happy" + 0.141*"the" + 0.141*"Not" + 0.141*"quality." + 0.005*"and"
+ - Topic 1: 0.064*"Very" + 0.064*"Not" + 0.064*"satisfied" + 0.064*"bad" + 0.064*"all." + 0.064*"experience."
+ - Topic 2: 0.073*"The" + 0.073*"product" + 0.073*"is" + 0.062*"and" + 0.056*"works" + 0.056*"It"
+ - Topic 3: 0.096*"the" + 0.051*"Very" + 0.051*"you!" + 0.051*"purchase," + 0.051*"thank" + 0.051*"happy"
+ - Topic 4: 0.108*"it’s" + 0.108*"Neutral" + 0.108*"acceptable." + 0.108*"review," + 0.061*"but" + 0.061*"can"
